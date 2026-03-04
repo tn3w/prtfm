@@ -1,11 +1,11 @@
-# prfm
+# prtfm
 
 A Prettier formatter tool for projects that temporarily sets up and runs Prettier without permanently modifying your project configuration.
 
 ## Installation
 
 ```bash
-npm install -g prfm
+npm install -g prtfm
 ```
 
 ## Usage
@@ -13,13 +13,13 @@ npm install -g prfm
 Run in your project directory:
 
 ```bash
-prfm
+prtfm
 ```
 
 Using npx
 
 ```bash
-npx prfm
+npx prtfm
 ```
 
 This will:

@@ -1,10 +1,10 @@
 {
-    "name": "prfm",
+    "name": "prtfm",
     "version": "1.0.0",
     "type": "module",
     "description": "Prettier formatter tool for projects",
     "bin": {
-        "prfm": "./bin/prfm.js"
+        "prtfm": "./bin/prtfm.js"
     },
     "files": [
         "bin",
